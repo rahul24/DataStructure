@@ -1,0 +1,9 @@
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\bin\Debug\netstandard2.0\RAD.DS.Algo.Problems.deps.json
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\bin\Debug\netstandard2.0\RAD.DS.Algo.Problems.dll
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\bin\Debug\netstandard2.0\RAD.DS.Algo.Problems.pdb
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.csprojAssemblyReference.cache
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.csproj.CoreCompileInputs.cache
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.AssemblyInfoInputs.cache
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.AssemblyInfo.cs
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.dll
+D:\DS\RAD.DS\RAD.DS.Algo.Problems\obj\Debug\netstandard2.0\RAD.DS.Algo.Problems.pdb

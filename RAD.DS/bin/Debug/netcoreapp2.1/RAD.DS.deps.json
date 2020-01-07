@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RAD.DS/1.0.0": {
+        "dependencies": {
+          "RAD.DS.Algo.Problems": "1.0.0",
+          "RAD.DS.Algorithms": "1.0.0"
+        },
+        "runtime": {
+          "RAD.DS.dll": {}
+        }
+      },
+      "RAD.DS.Algo.Problems/1.0.0": {
+        "runtime": {
+          "RAD.DS.Algo.Problems.dll": {}
+        }
+      },
+      "RAD.DS.Algorithms/1.0.0": {
+        "runtime": {
+          "RAD.DS.Algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RAD.DS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RAD.DS.Algo.Problems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RAD.DS.Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

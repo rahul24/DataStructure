@@ -1,0 +1,16 @@
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.deps.json
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.runtimeconfig.json
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.runtimeconfig.dev.json
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.dll
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.pdb
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.Algorithms.dll
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.Algorithms.pdb
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.csprojAssemblyReference.cache
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.csproj.CoreCompileInputs.cache
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.AssemblyInfoInputs.cache
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.AssemblyInfo.cs
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.csproj.CopyComplete
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.dll
+D:\DS\RAD.DS\RAD.DS\obj\Debug\netcoreapp2.1\RAD.DS.pdb
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.Algo.Problems.dll
+D:\DS\RAD.DS\RAD.DS\bin\Debug\netcoreapp2.1\RAD.DS.Algo.Problems.pdb

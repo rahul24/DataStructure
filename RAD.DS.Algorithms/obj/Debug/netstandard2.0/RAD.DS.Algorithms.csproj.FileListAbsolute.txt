@@ -1,0 +1,9 @@
+D:\DS\RAD.DS\RAD.DS.Algorithms\bin\Debug\netstandard2.0\RAD.DS.Algorithms.deps.json
+D:\DS\RAD.DS\RAD.DS.Algorithms\bin\Debug\netstandard2.0\RAD.DS.Algorithms.dll
+D:\DS\RAD.DS\RAD.DS.Algorithms\bin\Debug\netstandard2.0\RAD.DS.Algorithms.pdb
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.csproj.CoreCompileInputs.cache
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.AssemblyInfoInputs.cache
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.AssemblyInfo.cs
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.dll
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.pdb
+D:\DS\RAD.DS\RAD.DS.Algorithms\obj\Debug\netstandard2.0\RAD.DS.Algorithms.csprojAssemblyReference.cache
